@@ -81,7 +81,7 @@
               <ul id="info" class="bigEntrance" style="font-size:18px">
                 <li>&nbsp;&nbsp;&nbsp;<i class="material-icons mi-valign">my_location</i>&nbsp;&nbsp;&nbsp;<b>Карта:</b>&nbsp;<?php echo $mapname; ?></li>
                 <li>&nbsp;&nbsp;&nbsp;<i class="material-icons mi-valign">games</i>&nbsp;&nbsp;&nbsp;<b>Мод:</b>&nbsp;<div id="gamemode" style="display: inline;">darkrp</div></li>
-                <li>&nbsp;&nbsp;&nbsp;<i class="material-icons mi-valign">supervisor_account</i>&nbsp;&nbsp;&nbsp;<b>Играков макс:</b>&nbsp;<div id="maxplayers" style="display: inline;">128</div></li>
+                <li>&nbsp;&nbsp;&nbsp;<i class="material-icons mi-valign">supervisor_account</i>&nbsp;&nbsp;&nbsp;<b>Игроков макс:</b>&nbsp;<div id="maxplayers" style="display: inline;">128</div></li>
                 <li>&nbsp;&nbsp;&nbsp;<i class="material-icons mi-valign">language</i>&nbsp;&nbsp;&nbsp;<b>IP сервера:</b>&nbsp;<?php echo $serverIP; ?>:<?php echo $serverPort; ?></li>
               </ul>
             </div>
